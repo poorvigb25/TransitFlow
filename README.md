@@ -1,6 +1,6 @@
-# TransitFlow — Real-Time Transit Crowd Intelligence Platform
+# MetroConnect— Real-Time Transit Crowd Intelligence Platform
 
-TransitFlow is a cloud-based real-time public transportation crowd intelligence platform focusing on helping passengers avoid overcrowding in public transit systems. It aggregates live GPS location tracking, station congestion levels, and compartment load breakdowns (coaches 1-6) across Indian cities.
+MetroConnect is a cloud-based real-time public transportation crowd intelligence platform focusing on helping passengers avoid overcrowding in public transit systems. It aggregates live GPS location tracking, station congestion levels, and compartment load breakdowns (coaches 1-6) across Indian cities.
 
 ---
 
@@ -68,7 +68,7 @@ transitflow/
    ```bash
    npm start
    ```
-   *The console will display: `🚀 TransitFlow Full Stack API listening on http://localhost:4000`*
+   *The console will display: `🚀 MetroConnect Full Stack API listening on http://localhost:4000`*
 
 ---
 
